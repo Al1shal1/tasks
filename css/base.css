@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+html{
+}
+
+body,html {
+    padding-top: 50px;
+    height: 100%;
+}
+
+body {
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+    cursor: pointer;
+}
+
+address {
+    font-style: normal;
+}
+
+button {
+    cursor: pointer;
+    border: none;
+}
